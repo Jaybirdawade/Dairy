@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Amul",
+    "website": "https://www.amul.com",
+    "rss": "https://news.google.com/rss/search?q=amul+india",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Amul_Logo.svg/800px-Amul_Logo.svg.png"
+  },
+  {
+    "name": "Mother Dairy",
+    "website": "https://www.motherdairy.com",
+    "rss": "https://news.google.com/rss/search?q=mother+dairy+india",
+    "logo": "https://www.motherdairy.com/images/logo.png"
+  },
+  {
+    "name": "Hatsun Agro",
+    "website": "https://www.hap.in",
+    "rss": "https://news.google.com/rss/search?q=hatsun+agro+product",
+    "logo": "https://hap.in/images/logo.svg"
+  }
+  // Add more like Britannia, Milky Mist, Vadilal, Parag Milk, etc.
+]
