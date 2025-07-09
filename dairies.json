@@ -10,11 +10,5 @@
     "website": "https://www.motherdairy.com",
     "rss": "https://news.google.com/rss/search?q=mother+dairy+india&hl=en-IN&gl=IN&ceid=IN:en",
     "logo": "https://www.motherdairy.com/images/logo.png"
-  },
-  {
-    "name": "Hatsun Agro",
-    "website": "https://www.hap.in",
-    "rss": "https://news.google.com/rss/search?q=hatsun+agro&hl=en-IN&gl=IN&ceid=IN:en",
-    "logo": "https://hap.in/images/logo.svg"
   }
 ]
