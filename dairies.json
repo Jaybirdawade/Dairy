@@ -2,20 +2,19 @@
   {
     "name": "Amul",
     "website": "https://www.amul.com",
-    "rss": "https://news.google.com/rss/search?q=amul+india",
+    "rss": "https://news.google.com/rss/search?q=amul+india&hl=en-IN&gl=IN&ceid=IN:en",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Amul_Logo.svg/800px-Amul_Logo.svg.png"
   },
   {
     "name": "Mother Dairy",
     "website": "https://www.motherdairy.com",
-    "rss": "https://news.google.com/rss/search?q=mother+dairy+india",
+    "rss": "https://news.google.com/rss/search?q=mother+dairy+india&hl=en-IN&gl=IN&ceid=IN:en",
     "logo": "https://www.motherdairy.com/images/logo.png"
   },
   {
     "name": "Hatsun Agro",
     "website": "https://www.hap.in",
-    "rss": "https://news.google.com/rss/search?q=hatsun+agro+product",
+    "rss": "https://news.google.com/rss/search?q=hatsun+agro&hl=en-IN&gl=IN&ceid=IN:en",
     "logo": "https://hap.in/images/logo.svg"
   }
-
 ]
